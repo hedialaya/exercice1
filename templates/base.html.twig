@@ -6,7 +6,13 @@
         {% block stylesheets %}{% endblock %}
     </head>
     <body>
-        {% block body %}{% endblock %}
-        {% block javascripts %}{% endblock %}
+
+        <ul>
+            <li><a href="{{ path('offre_new') }}">Ajouter une offre</a></li>
+            <li><a href="{{ path('competence_new') }}">Ajouter une competence</a></li>
+            <li><a href="{{ path('job_new') }}">Ajouter un job </a></li>
+            <li><a href="{{ path('contrat_new') }}">Ajouter un contrat</a></li>
+            <li><a href="{{ path('candidature_new') }}">Ajouter une candidature</a></li>
+        </ul>
     </body>
 </html>

@@ -1,0 +1,302 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"f2f08f1f-88ee-47b0-a6e8-169222c40981\" name=\"Default Changelist\" comment=\"\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/composer/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/psr/cache/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/psr/container/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/psr/log/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/psr/simple-cache/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/cache/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/config/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/console/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/contracts/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/debug/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/dependency-injection/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/dotenv/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/event-dispatcher/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/filesystem/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/finder/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/flex/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/framework-bundle/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/http-foundation/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/http-kernel/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/routing/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/var-exporter/\" />\n    <ignored path=\"$PROJECT_DIR$/vendor/symfony/yaml/\" />\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ComposerSettings\">\n    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"PhpWorkspaceProjectConfiguration\">\n    <include_path>\n      <path value=\"$PROJECT_DIR$/vendor/symfony/yaml\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/var-exporter\" />\n      <path value=\"$PROJECT_DIR$/vendor/psr/cache\" />\n      <path value=\"$PROJECT_DIR$/vendor/psr/container\" />\n      <path value=\"$PROJECT_DIR$/vendor/psr/simple-cache\" />\n      <path value=\"$PROJECT_DIR$/vendor/psr/log\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/cache\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/console\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/debug\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/framework-bundle\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/http-kernel\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/dependency-injection\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/filesystem\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/contracts\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/routing\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/finder\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/event-dispatcher\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/dotenv\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-mbstring\" />\n      <path value=\"$PROJECT_DIR$/vendor/composer\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/flex\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/http-foundation\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/config\" />\n      <path value=\"$PROJECT_DIR$/vendor/ocramius/package-versions\" />\n      <path value=\"$PROJECT_DIR$/vendor/ocramius/proxy-manager\" />\n      <path value=\"$PROJECT_DIR$/vendor/nikic/php-parser\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/reflection\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/cache\" />\n      <path value=\"$PROJECT_DIR$/vendor/sensio/framework-extra-bundle\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/event-manager\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/dbal\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/orm\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/annotations\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/data-fixtures\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/lexer\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/common\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/doctrine-bundle\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/migrations\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/collections\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/doctrine-fixtures-bundle\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/instantiator\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/inflector\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle\" />\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/persistence\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/validator\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/web-profiler-bundle\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/serializer\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/var-dumper\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/orm-pack\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/profiler-pack\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu\" />\n      <path value=\"$PROJECT_DIR$/vendor/twig/twig\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/property-access\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/doctrine-bridge\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/process\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/twig-bundle\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/options-resolver\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/intl\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-php72\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/security-csrf\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/web-server-bundle\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/maker-bundle\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/twig-bridge\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/form\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/security-core\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/asset\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/inflector\" />\n      <path value=\"$PROJECT_DIR$/vendor/zendframework/zend-eventmanager\" />\n      <path value=\"$PROJECT_DIR$/vendor/symfony/stopwatch\" />\n      <path value=\"$PROJECT_DIR$/vendor/zendframework/zend-code\" />\n      <path value=\"$PROJECT_DIR$/vendor/jdorn/sql-formatter\" />\n    </include_path>\n  </component>\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\n    <option name=\"x\" value=\"10\" />\n    <option name=\"y\" value=\"20\" />\n    <option name=\"width\" value=\"1346\" />\n    <option name=\"height\" value=\"688\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"f2f08f1f-88ee-47b0-a6e8-169222c40981\" name=\"Default Changelist\" comment=\"\" />\n      <created>1552377459504</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1552377459504</updated>\n      <workItem from=\"1552377460832\" duration=\"283000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TimeTrackingManager\">\n    <option name=\"totallyTimeSpent\" value=\"283000\" />\n  </component>\n  <component name=\"ToolWindowManager\">\n    <frame x=\"-8\" y=\"-8\" width=\"1382\" height=\"744\" extended-state=\"6\" />\n    <layout>\n      <window_info id=\"Image Layers\" />\n      <window_info id=\"Designer\" />\n      <window_info id=\"UI Designer\" />\n      <window_info id=\"Capture Tool\" />\n      <window_info id=\"Favorites\" side_tool=\"true\" />\n      <window_info content_ui=\"combo\" id=\"Project\" order=\"0\" weight=\"0.25\" />\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Docker\" show_stripe_button=\"false\" />\n      <window_info anchor=\"bottom\" id=\"Database Changes\" />\n      <window_info active=\"true\" anchor=\"bottom\" id=\"Version Control\" visible=\"true\" weight=\"0.3289689\" />\n      <window_info anchor=\"bottom\" id=\"Terminal\" />\n      <window_info anchor=\"bottom\" id=\"Event Log\" side_tool=\"true\" />\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" />\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\n      <window_info anchor=\"right\" id=\"Palette\" />\n      <window_info anchor=\"right\" id=\"Theme Preview\" />\n      <window_info anchor=\"right\" id=\"Maven\" />\n      <window_info anchor=\"right\" id=\"Capture Analysis\" />\n      <window_info anchor=\"right\" id=\"Palette&#9;\" />\n      <window_info anchor=\"right\" id=\"Database\" />\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\n    </layout>\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"1\" />\n  </component>\n  <component name=\"masterDetails\">\n    <states>\n      <state key=\"ProjectJDKs.UI\">\n        <settings>\n          <last-edited>9</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n    </states>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision fe489998201b677676a97656841b49325f8225ec)
++++ .idea/workspace.xml	(date 1552379071102)
+@@ -1,7 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="f2f08f1f-88ee-47b0-a6e8-169222c40981" name="Default Changelist" comment="" />
++    <list default="true" id="f2f08f1f-88ee-47b0-a6e8-169222c40981" name="Default Changelist" comment="">
++      <change afterPath="$PROJECT_DIR$/src/Controller/test.php" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/From/OffreType.php" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <ignored path="$PROJECT_DIR$/vendor/composer/" />
+     <ignored path="$PROJECT_DIR$/vendor/psr/cache/" />
+     <ignored path="$PROJECT_DIR$/vendor/psr/container/" />
+@@ -33,9 +37,39 @@
+   </component>
+   <component name="ComposerSettings">
+     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
++  </component>
++  <component name="FileEditorManager">
++    <leaf>
++      <file pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/src/From/OffreType.php">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="168">
++              <caret line="14" column="3" lean-forward="true" selection-end-line="45" selection-end-column="3" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/Controller/test.php">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="222">
++              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++    </leaf>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="IdeDocumentHistory">
++    <option name="CHANGED_PATHS">
++      <list>
++        <option value="$PROJECT_DIR$/src/Controller/test.php" />
++        <option value="$PROJECT_DIR$/src/From/OffreType.php" />
++      </list>
++    </option>
+   </component>
+   <component name="PhpWorkspaceProjectConfiguration">
+     <include_path>
+@@ -118,10 +152,49 @@
+     <option name="y" value="20" />
+     <option name="width" value="1346" />
+     <option name="height" value="688" />
++  </component>
++  <component name="ProjectView">
++    <navigator proportions="" version="1">
++      <autoscrollFromSource ProjectPane="true" />
++      <foldersAlwaysOnTop value="true" />
++    </navigator>
++    <panes>
++      <pane id="ProjectPane">
++        <subPane>
++          <expand>
++            <path>
++              <item name="exercice1" type="b2602c69:ProjectViewProjectNode" />
++              <item name="exercice1" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="exercice1" type="b2602c69:ProjectViewProjectNode" />
++              <item name="exercice1" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="exercice1" type="b2602c69:ProjectViewProjectNode" />
++              <item name="exercice1" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="Controller" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="exercice1" type="b2602c69:ProjectViewProjectNode" />
++              <item name="exercice1" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="From" type="462c0819:PsiDirectoryNode" />
++            </path>
++          </expand>
++          <select />
++        </subPane>
++      </pane>
++      <pane id="Scope" />
++      <pane id="PackagesPane" />
++    </panes>
+   </component>
+   <component name="PropertiesComponent">
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
++    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552379052804" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+@@ -148,26 +221,27 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1552377459504</updated>
+-      <workItem from="1552377460832" duration="283000" />
++      <workItem from="1552377460832" duration="1576000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="283000" />
++    <option name="totallyTimeSpent" value="1576000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
++    <editor active="true" />
+     <layout>
+       <window_info id="Image Layers" />
+       <window_info id="Designer" />
+       <window_info id="UI Designer" />
+       <window_info id="Capture Tool" />
+       <window_info id="Favorites" side_tool="true" />
+-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
++      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+       <window_info anchor="bottom" id="Database Changes" />
+-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3289689" />
++      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3289689" />
+       <window_info anchor="bottom" id="Terminal" />
+       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+       <window_info anchor="bottom" id="Message" order="0" />
+@@ -190,6 +264,22 @@
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="1" />
++  </component>
++  <component name="editorHistoryManager">
++    <entry file="file://$PROJECT_DIR$/src/Controller/test.php">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="222">
++          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/From/OffreType.php">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="168">
++          <caret line="14" column="3" lean-forward="true" selection-end-line="45" selection-end-column="3" />
++        </state>
++      </provider>
++    </entry>
+   </component>
+   <component name="masterDetails">
+     <states>
+Index: src/From/OffreType.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/From/OffreType.php	(date 1552379051522)
++++ src/From/OffreType.php	(date 1552379051522)
+@@ -0,0 +1,46 @@
++<?php
++//
++//namespace App\Form;
++//
++//
++//use Symfony\Bridge\Doctrine\Form\Type\EntityType;
++//use Symfony\Component\Form\AbstractType;
++//use Symfony\Component\Form\Extension\Core\Type\FileType;
++//use Symfony\Component\Form\Extension\Core\Type\NumberType;
++//use Symfony\Component\Form\Extension\Core\Type\SubmitType;
++//use Symfony\Component\Form\Extension\Core\Type\TextType;
++//use Symfony\Component\Form\FormBuilderInterface;
++//
++//class CompanyType extends AbstractType
++//{
++//    public function buildForm(FormBuilderInterface $builder, array $options)
++//    {
++//        $builder
++//            ->add('name', TextType::class)
++//            ->add('comment', TextType::class)
++//            ->add('address', TextType::class)
++//            ->add('logo', FileType::class)
++//            ->add('addressComplement', TextType::class)
++//            ->add('city', TextType::class)
++//            ->add('phone', TextType::class)
++//            ->add('fax', TextType::class)
++//            ->add('web', TextType::class)
++//            ->add('nafCode', TextType::class)
++//            ->add('source', TextType::class)
++//            ->add('zipCode', NumberType::class)
++//            ->add('siret', NumberType::class)
++//            ->add('companies', EntityType::class, ['class' => User::class, 'choice_label' => 'name'])
++//            ->add('country', EntityType::class, ['class' => CompanyCountry::class, 'choice_label' => 'name'])
++//            ->add('CompnaySectorActivity', EntityType::class, ['class' => CompanyActivitySector::class, 'choice_label' => 'name'])
++//            ->add('companyCategory', EntityType::class, ['class' => CompanyCategory::class, 'choice_label' => 'name'])
++//            ->add('employeeNumber', EntityType::class, ['class' => CompanyEmployeeNumber::class, 'choice_label' => 'name'])
++//            ->add('revenue', EntityType::class, ['class' => CompanyRevenue::class, 'choice_label' => 'name'])
++//            ->add('lastRevenue', EntityType::class, ['class' => CompanyLastRevenue::class, 'choice_label' => 'name'])
++//            ->add('typeSite', EntityType::class, ['class' => ParameterTypeSite::class, 'choice_label' => 'name'])
++//            ->add('object', EntityType::class, ['class' => ParameterObject::class, 'choice_label' => 'name'])
++//            ->add('target', EntityType::class, ['class' => ParameterTarget::class, 'choice_label' => 'name'])
++//            ->add('behavior', EntityType::class, ['class' => ParameterBehavior::class, 'choice_label' => 'name'])
++//            ->add('juridicalStatus', EntityType::class, ['class' => CompanyJuridicalStatus::class, 'choice_label' => 'name'])
++//            ->add('save', SubmitType::class);
++//    }
++//}
+\ No newline at end of file
+Index: src/Controller/test.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Controller/test.php	(date 1552378725171)
++++ src/Controller/test.php	(date 1552378725171)
+@@ -0,0 +1,71 @@
++<?php
++/**
++ * Created by IntelliJ IDEA.
++ * User: Hedi
++ * Date: 12/03/2019
++ * Time: 09:14
++ */
++
++namespace App\Controller;
++
++
++class test
++{
++    public function new(Request $request)
++    {
++        $company = new Company();
++        $form = $this->createForm(CompanyType::class, $company);
++        $form->add('submit', SubmitType::class, [
++            'label' => 'Créer un parametre',
++            'attr' => ['class' => 'btn btn-default pull-right'],
++        ]);
++
++        $form->handleRequest($request);
++        if ($form->isSubmitted() && $form->isValid()) {
++
++            $em = $this->getDoctrine()->getManager();
++            $em->persist($param);
++            $em->flush();
++        }
++
++        return $this->render('parameter/new.html.twig', array(
++            'form' => $form->createView(),
++        ));
++    }
++
++
++
++    /**
++     *@Route("/edit/{parameter}", methods = {"GET","POST"}, name ="Company_edit")
++     *@param Request $request
++     *@return \Symfony\Component\HttpFoundation\Response
++     */
++    public function edit (Request $request, Company $company)
++    {
++        $form = $this->createForm(CompanyType::class, $company);
++        $form->add('submit', SubmitType::class, [
++            'label' => 'Mettre à jour ',
++            'attr' => ['class' => 'btn btn-default pull-right'],
++        ]);
++
++        $form->handleRequest($request);
++        if ($form->isSubmitted() && $form->isValid()) {
++
++            $em = $this->getDoctrine()->getManager();
++            $em->persist($company);
++            $em->flush();
++        }
++
++        return $this->render('parameter/new.html.twig', array(
++            'form' => $form->createView(),
++        ));
++    }
++
++    /**
++     * @ORM\ManyToOne(targetEntity="App\AdminBundle\Entity\CompanyActivitySector", inversedBy="companies")
++     */
++
++//{{ form_start(form) }}
++//{{ form_widget(form) }}
++//{{ form_end(form) }}
++}
+\ No newline at end of file

@@ -1,0 +1,16 @@
+Index: .env
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># In all environments, the following files are loaded if they exist,\n# the later taking precedence over the former:\n#\n#  * .env                contains default values for the environment variables needed by the app\n#  * .env.local          uncommitted file with local overrides\n#  * .env.$APP_ENV       committed environment-specific defaults\n#  * .env.$APP_ENV.local uncommitted environment-specific overrides\n#\n# Real environment variables win over .env files.\n#\n# DO NOT DEFINE PRODUCTION SECRETS IN THIS FILE NOR IN ANY OTHER COMMITTED FILES.\n#\n# Run \"composer dump-env prod\" to compile .env files for production use (requires symfony/flex >=1.2).\n# https://symfony.com/doc/current/best_practices/configuration.html#infrastructure-related-configuration\n\n###> symfony/framework-bundle ###\nAPP_ENV=dev\nAPP_SECRET=9a441ceee5baaabd62df8b1365aa16bc\n#TRUSTED_PROXIES=127.0.0.1,127.0.0.2\n#TRUSTED_HOSTS='^localhost|example\\.com$'\n###< symfony/framework-bundle ###\n\n###> doctrine/doctrine-bundle ###\n# Format described at http://docs.doctrine-project.org/projects/doctrine-dbal/en/latest/reference/configuration.html#connecting-using-a-url\n# For an SQLite database, use: \"sqlite:///%kernel.project_dir%/var/data.db\"\n# Configure your db driver and server_version in config/packages/doctrine.yaml\nDATABASE_URL=mysql://db_user:db_password@127.0.0.1:3306/db_name\n###< doctrine/doctrine-bundle ###\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .env	(revision 1d603caa3bdf66c75116f7594aba92d42f76e4ae)
++++ .env	(date 1552379173879)
+@@ -24,5 +24,5 @@
+ # Format described at http://docs.doctrine-project.org/projects/doctrine-dbal/en/latest/reference/configuration.html#connecting-using-a-url
+ # For an SQLite database, use: "sqlite:///%kernel.project_dir%/var/data.db"
+ # Configure your db driver and server_version in config/packages/doctrine.yaml
+-DATABASE_URL=mysql://db_user:db_password@127.0.0.1:3306/db_name
++DATABASE_URL=mysql://root@127.0.0.1:3306/exercice1
+ ###< doctrine/doctrine-bundle ###
